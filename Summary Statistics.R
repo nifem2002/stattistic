@@ -38,6 +38,9 @@ install.packages(c("nycflights13", "gapminder", "Lahman")) # used
 #--------------------
 # Math
 1 / 200 * 30
+num= 1 / 200 * 30
+(num2 = 1 / 200 * 30)
+
 (59 + 73 + 2) / 3
 sin(pi / 2)
 
