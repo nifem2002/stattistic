@@ -55,6 +55,7 @@ x
 # e.g seq()  makes regular sequences of number
 seq(1, 10)
 
+
 # enclose in parentheses to display automatically after assignment
 (y <- seq(1, 10, length.out = 5))
 
