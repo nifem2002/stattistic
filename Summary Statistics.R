@@ -97,7 +97,7 @@ View(iris)
 
 # https://statsandr.com/blog/data-types-in-r/
 # c is used in R to concatenate 
-num_data <- c(3, 7, 2)# numeric series without decimals
+num_data <- c(3, 7, 2)# numeric series without decimals..
 # Combine Values Into A Vector Or List
 # Try run it....https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/c
 
