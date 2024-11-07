@@ -258,7 +258,7 @@ levels(iris$Species) # note $ refers to col
 
 #############
 # min, max
-#############
+##############
 min(dat$Sepal.Length)
 max(dat$Sepal.Length)
 
